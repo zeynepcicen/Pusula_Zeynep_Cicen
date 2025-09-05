@@ -1,6 +1,6 @@
 # Pusula Projesi - Zeynep Çiçen - cicenzeynep1@gmail.com
 
-Bu repo, **sağlık verileri** üzerinde yapılan veri analizi ve ön işleme çalışmalarını içermektedir. Çalışmalar Python dili ve Jupyter Notebook kullanılarak hazırlanmıştır.  
+Bu repo, **sağlık verileri** üzerinde yapılan veri analizi ve ön işleme çalışmalarını içermektedir. Çalışmalar Python dili ve Google Colab Notebook kullanılarak hazırlanmıştır.  
 
 ## İçerik
 
