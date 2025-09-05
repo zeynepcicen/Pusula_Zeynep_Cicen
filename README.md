@@ -7,7 +7,7 @@ Bu repo, **sağlık verileri** üzerinde yapılan veri analizi ve ön işleme ç
 - [`pusula_EDA.ipynb`](./pusula_EDA.ipynb)  
   - Veri kümesinin keşifsel analizi yapılmıştır.  
   - Eksik veriler, tekrar eden kayıtlar ve veri dağılımları incelenmiştir.  
-  - Görselleştirmeler (histogram, scatter plot, heatmap) ile verilerdeki kalıplar ortaya çıkarılmıştır.  
+  - Görselleştirmeler ile verilerdeki kalıplar ortaya çıkarılmıştır.  
 
 - [`DPP.ipynb`](./DPP.ipynb)  
   - Veri temizleme ve ön işleme adımları uygulanmıştır.  
