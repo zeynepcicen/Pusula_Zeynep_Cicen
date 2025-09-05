@@ -11,7 +11,6 @@ Bu repo, **sağlık verileri** üzerinde yapılan veri analizi ve ön işleme ç
 
 - [`DPP.ipynb`](./DPP.ipynb)  
   - Veri temizleme ve ön işleme adımları uygulanmıştır.  
-  - Eksik değerler **SimpleImputer** ve **KNNImputer** yöntemleriyle doldurulmuştur.  
   - Kategorik değişkenler encode edilmiştir.  
   - Sayısal değişkenler normalleştirilmiş/standardize edilmiştir.  
 
